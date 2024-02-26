@@ -53,7 +53,8 @@ class PascalTriangle
 }
 ```
 ## Output:
-![alt text](/c#ex-2pic.png)
+![c#ex-2pic](https://github.com/shaikSameerbasha5404/Exp02-CSharpPattern/assets/118707756/8fdb7b93-2066-4fc3-aa8d-b8872609cfd5)
+
 
 ## Result:
 Thus the C# program to print the pascal's triangle is executed successfully.
