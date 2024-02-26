@@ -53,7 +53,7 @@ class PascalTriangle
 }
 ```
 ## Output:
-![alt text](c#ex-2pic.png)
+![alt text](/c#ex-2pic.png)
 
 ## Result:
 Thus the C# program to print the pascal's triangle is executed successfully.
